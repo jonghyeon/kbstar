@@ -1,4 +1,7 @@
 # kbstar
+## e-mail
+### 질문 & 자료 요청
+jonghyeon.kim@live.com
 ## 실습 자료 접속 주소
 ### https://github.com/jonghyeon/bigdata
 ## 참고자료 Download
