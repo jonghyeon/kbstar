@@ -1,5 +1,4 @@
 # kbstar
-## e-mail
 ### 질문 & 자료 요청
 jonghyeon.kim@live.com
 ## 실습 자료 접속 주소
